@@ -1,7 +1,5 @@
 
 #file = open('C:\Forritun\PythonStuff\AdventOfCode2022\Input\Problem1a-Example.txt','r')
-from operator import truediv
-
 
 file = open('C:\Forritun\PythonStuff\AdventOfCode2022\Input\Problem1a-Input.txt','r')
 
