@@ -58,10 +58,7 @@ file = open('C:\Forritun\PythonStuff\AdventOfCode2022\Input\Problem2-Input.txt',
 
 
 all = file.read().splitlines()
-#print(all)
+
 
 problem2parta(all)
 problem2partb(all)
-
-
-    #11939 too low
